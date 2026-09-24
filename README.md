@@ -18,7 +18,7 @@ Data Visualization
 📂 Featured Projects
 AI Resume Screening System
 Student Placement Dashboard
-Flappy Bird Game
+
 📫 Contact
 LinkedIn: www.linkedin.com/in/pentakota-lakshmi-sindhuja-750b65382
 Email: lakshmisindhuja18@gmail.com
